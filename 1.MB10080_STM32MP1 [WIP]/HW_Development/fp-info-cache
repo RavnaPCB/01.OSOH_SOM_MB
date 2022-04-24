@@ -1,0 +1,1450 @@
+340632064905498
+Capacitor
+CP_10x10
+CP_10x10
+CP_10x10
+0
+2
+2
+Capacitor
+CP_2012
+CP_2012
+CP_2012
+0
+2
+2
+Capacitor
+CP_2312
+CP_2312
+CP_2312
+0
+2
+2
+Capacitor
+C_0402
+C_0402
+C_0402
+0
+2
+2
+Capacitor
+C_0603
+Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
+capacitor
+0
+2
+2
+Capacitor
+C_0805
+C_0805
+C_0805
+0
+2
+2
+Capacitor
+C_1206
+C_1206
+C_1206
+0
+2
+2
+Capacitor
+C_1210
+Capacitor SMD 1210 (3225 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
+capacitor
+0
+2
+2
+Capacitor
+C_1812
+C_1812
+C_1812
+0
+2
+2
+Capacitor
+C_1825
+C_1825
+C_1825
+0
+2
+2
+Capacitor
+C_2220
+C_2220
+C_2220
+0
+2
+2
+Capacitor
+C_2225
+C_2225
+C_2225
+0
+2
+2
+Capacitor
+FM0H104ZF
+FM0H104ZF
+FM0H104ZF
+0
+2
+2
+Connector_Card
+uSD_503182-1852
+uSD_503182-1852
+uSD_503182-1852
+0
+15
+15
+Connector_Card
+uSD_693072010801
+uSD_693072010801
+uSD_693072010801
+0
+12
+9
+Connector_DIN
+CUI_MD-30SM
+
+
+0
+6
+6
+Connector_DIN
+CUI_MD-60SM
+
+
+0
+9
+9
+Connector_Dsub
+DSUB-9_Female_EdgeMount_P2.77mm
+9-pin D-Sub connector, solder-cups edge-mounted, female, x-pin-pitch 2.77mm, distance of mounting holes 25mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf
+9-pin D-Sub connector edge mount solder cup female x-pin-pitch 2.77mm mounting holes distance 25mm
+0
+9
+9
+Connector_Dsub
+DSUB-9_Female_Horizontal_P2.77x2.54mm_EdgePinOffset9.40mm
+9-pin D-Sub connector, horizontal/angled (90 deg), THT-mount, female, pitch 2.77x2.54mm, pin-PCB-offset 9.4mm, see http://docs-europe.electrocomponents.com/webdocs/1585/0900766b81585df2.pdf
+9-pin D-Sub connector horizontal angled 90deg THT female pitch 2.77x2.54mm pin-PCB-offset 9.4mm
+0
+9
+9
+Connector_Dsub
+DSUB-9_Female_Horizontal_P2.77x2.84mm_EdgePinOffset4.94mm_Housed_MountingHolesOffset7.48mm
+9-pin D-Sub connector, horizontal/angled (90 deg), THT-mount, female, pitch 2.77x2.84mm, pin-PCB-offset 4.9399999999999995mm, distance of mounting holes 25mm, distance of mounting holes to PCB edge 7.4799999999999995mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf
+9-pin D-Sub connector horizontal angled 90deg THT female pitch 2.77x2.84mm pin-PCB-offset 4.9399999999999995mm mounting-holes-distance 25mm mounting-hole-offset 25mm
+0
+11
+10
+Connector_Dsub
+DSUB-9_Female_Horizontal_P2.77x2.84mm_EdgePinOffset7.70mm_Housed_MountingHolesOffset9.12mm
+9-pin D-Sub connector, horizontal/angled (90 deg), THT-mount, female, pitch 2.77x2.84mm, pin-PCB-offset 7.699999999999999mm, distance of mounting holes 25mm, distance of mounting holes to PCB edge 9.12mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf
+9-pin D-Sub connector horizontal angled 90deg THT female pitch 2.77x2.84mm pin-PCB-offset 7.699999999999999mm mounting-holes-distance 25mm mounting-hole-offset 25mm
+0
+11
+10
+Connector_Dsub
+DSUB-9_Female_Horizontal_P2.77x2.84mm_EdgePinOffset9.40mm
+9-pin D-Sub connector, horizontal/angled (90 deg), THT-mount, female, pitch 2.77x2.84mm, pin-PCB-offset 9.4mm, see http://docs-europe.electrocomponents.com/webdocs/1585/0900766b81585df2.pdf
+9-pin D-Sub connector horizontal angled 90deg THT female pitch 2.77x2.84mm pin-PCB-offset 9.4mm
+0
+9
+9
+Connector_Dsub
+DSUB-9_Female_Horizontal_P2.77x2.84mm_EdgePinOffset9.90mm_Housed_MountingHolesOffset11.32mm
+9-pin D-Sub connector, horizontal/angled (90 deg), THT-mount, female, pitch 2.77x2.84mm, pin-PCB-offset 9.9mm, distance of mounting holes 25mm, distance of mounting holes to PCB edge 11.32mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf
+9-pin D-Sub connector horizontal angled 90deg THT female pitch 2.77x2.84mm pin-PCB-offset 9.9mm mounting-holes-distance 25mm mounting-hole-offset 25mm
+0
+11
+10
+Connector_Dsub
+DSUB-9_Female_Horizontal_P2.77x2.84mm_EdgePinOffset14.56mm_Housed_MountingHolesOffset8.20mm
+9-pin D-Sub connector, horizontal/angled (90 deg), THT-mount, female, pitch 2.77x2.84mm, pin-PCB-offset 14.56mm, distance of mounting holes 25mm, distance of mounting holes to PCB edge 8.2mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf
+9-pin D-Sub connector horizontal angled 90deg THT female pitch 2.77x2.84mm pin-PCB-offset 14.56mm mounting-holes-distance 25mm mounting-hole-offset 25mm
+0
+11
+10
+Connector_Dsub
+DSUB-9_Female_Horizontal_P2.77x2.84mm_EdgePinOffset14.56mm_Housed_MountingHolesOffset15.98mm
+9-pin D-Sub connector, horizontal/angled (90 deg), THT-mount, female, pitch 2.77x2.84mm, pin-PCB-offset 14.56mm, distance of mounting holes 25mm, distance of mounting holes to PCB edge 15.979999999999999mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf
+9-pin D-Sub connector horizontal angled 90deg THT female pitch 2.77x2.84mm pin-PCB-offset 14.56mm mounting-holes-distance 25mm mounting-hole-offset 25mm
+0
+11
+10
+Connector_Dsub
+DSUB-9_Female_Vertical_P2.77x2.84mm
+9-pin D-Sub connector, straight/vertical, THT-mount, female, pitch 2.77x2.84mm, distance of mounting holes 25mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf
+9-pin D-Sub connector straight vertical THT female pitch 2.77x2.84mm mounting holes distance 25mm
+0
+9
+9
+Connector_Dsub
+DSUB-9_Female_Vertical_P2.77x2.84mm_MountingHoles
+9-pin D-Sub connector, straight/vertical, THT-mount, female, pitch 2.77x2.84mm, distance of mounting holes 25mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf
+9-pin D-Sub connector straight vertical THT female pitch 2.77x2.84mm mounting holes distance 25mm
+0
+11
+10
+Connector_Dsub
+DSUB-9_Male_EdgeMount_P2.77mm
+9-pin D-Sub connector, solder-cups edge-mounted, male, x-pin-pitch 2.77mm, distance of mounting holes 25mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf
+9-pin D-Sub connector edge mount solder cup male x-pin-pitch 2.77mm mounting holes distance 25mm
+0
+9
+9
+Connector_Dsub
+DSUB-9_Male_Horizontal_P2.77x2.54mm_EdgePinOffset9.40mm
+9-pin D-Sub connector, horizontal/angled (90 deg), THT-mount, male, pitch 2.77x2.54mm, pin-PCB-offset 9.4mm, see http://docs-europe.electrocomponents.com/webdocs/1585/0900766b81585df2.pdf
+9-pin D-Sub connector horizontal angled 90deg THT male pitch 2.77x2.54mm pin-PCB-offset 9.4mm
+0
+9
+9
+Connector_Dsub
+DSUB-9_Male_Horizontal_P2.77x2.84mm_EdgePinOffset4.94mm_Housed_MountingHolesOffset7.48mm
+9-pin D-Sub connector, horizontal/angled (90 deg), THT-mount, male, pitch 2.77x2.84mm, pin-PCB-offset 4.9399999999999995mm, distance of mounting holes 25mm, distance of mounting holes to PCB edge 7.4799999999999995mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf
+9-pin D-Sub connector horizontal angled 90deg THT male pitch 2.77x2.84mm pin-PCB-offset 4.9399999999999995mm mounting-holes-distance 25mm mounting-hole-offset 25mm
+0
+11
+10
+Connector_Dsub
+DSUB-9_Male_Horizontal_P2.77x2.84mm_EdgePinOffset7.70mm_Housed_MountingHolesOffset9.12mm
+9-pin D-Sub connector, horizontal/angled (90 deg), THT-mount, male, pitch 2.77x2.84mm, pin-PCB-offset 7.699999999999999mm, distance of mounting holes 25mm, distance of mounting holes to PCB edge 9.12mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf
+9-pin D-Sub connector horizontal angled 90deg THT male pitch 2.77x2.84mm pin-PCB-offset 7.699999999999999mm mounting-holes-distance 25mm mounting-hole-offset 25mm
+0
+11
+10
+Connector_Dsub
+DSUB-9_Male_Horizontal_P2.77x2.84mm_EdgePinOffset9.40mm
+9-pin D-Sub connector, horizontal/angled (90 deg), THT-mount, male, pitch 2.77x2.84mm, pin-PCB-offset 9.4mm, see http://docs-europe.electrocomponents.com/webdocs/1585/0900766b81585df2.pdf
+9-pin D-Sub connector horizontal angled 90deg THT male pitch 2.77x2.84mm pin-PCB-offset 9.4mm
+0
+9
+9
+Connector_Dsub
+DSUB-9_Male_Horizontal_P2.77x2.84mm_EdgePinOffset9.90mm_Housed_MountingHolesOffset11.32mm
+9-pin D-Sub connector, horizontal/angled (90 deg), THT-mount, male, pitch 2.77x2.84mm, pin-PCB-offset 9.9mm, distance of mounting holes 25mm, distance of mounting holes to PCB edge 11.32mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf
+9-pin D-Sub connector horizontal angled 90deg THT male pitch 2.77x2.84mm pin-PCB-offset 9.9mm mounting-holes-distance 25mm mounting-hole-offset 25mm
+0
+11
+10
+Connector_Dsub
+DSUB-9_Male_Horizontal_P2.77x2.84mm_EdgePinOffset14.56mm_Housed_MountingHolesOffset8.20mm
+9-pin D-Sub connector, horizontal/angled (90 deg), THT-mount, male, pitch 2.77x2.84mm, pin-PCB-offset 14.56mm, distance of mounting holes 25mm, distance of mounting holes to PCB edge 8.2mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf
+9-pin D-Sub connector horizontal angled 90deg THT male pitch 2.77x2.84mm pin-PCB-offset 14.56mm mounting-holes-distance 25mm mounting-hole-offset 25mm
+0
+11
+10
+Connector_Dsub
+DSUB-9_Male_Horizontal_P2.77x2.84mm_EdgePinOffset14.56mm_Housed_MountingHolesOffset15.98mm
+9-pin D-Sub connector, horizontal/angled (90 deg), THT-mount, male, pitch 2.77x2.84mm, pin-PCB-offset 14.56mm, distance of mounting holes 25mm, distance of mounting holes to PCB edge 15.979999999999999mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf
+9-pin D-Sub connector horizontal angled 90deg THT male pitch 2.77x2.84mm pin-PCB-offset 14.56mm mounting-holes-distance 25mm mounting-hole-offset 25mm
+0
+11
+10
+Connector_Dsub
+DSUB-9_Male_Vertical_P2.77x2.84mm
+9-pin D-Sub connector, straight/vertical, THT-mount, male, pitch 2.77x2.84mm, distance of mounting holes 25mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf
+9-pin D-Sub connector straight vertical THT male pitch 2.77x2.84mm mounting holes distance 25mm
+0
+9
+9
+Connector_Dsub
+DSUB-9_Male_Vertical_P2.77x2.84mm_MountingHoles
+9-pin D-Sub connector, straight/vertical, THT-mount, male, pitch 2.77x2.84mm, distance of mounting holes 25mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf
+9-pin D-Sub connector straight vertical THT male pitch 2.77x2.84mm mounting holes distance 25mm
+0
+11
+10
+Connector_Dsub
+DSUB-15-HD_Female_Horizontal_P2.29x1.98mm_EdgePinOffset3.03mm_Housed_MountingHolesOffset4.94mm
+15-pin D-Sub connector, horizontal/angled (90 deg), THT-mount, female, pitch 2.29x1.98mm, pin-PCB-offset 3.0300000000000002mm, distance of mounting holes 25mm, distance of mounting holes to PCB edge 4.9399999999999995mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf
+15-pin D-Sub connector horizontal angled 90deg THT female pitch 2.29x1.98mm pin-PCB-offset 3.0300000000000002mm mounting-holes-distance 25mm mounting-hole-offset 25mm
+0
+17
+16
+Connector_Dsub
+DSUB-15-HD_Female_Horizontal_P2.29x1.98mm_EdgePinOffset8.35mm_Housed_MountingHolesOffset10.89mm
+15-pin D-Sub connector, horizontal/angled (90 deg), THT-mount, female, pitch 2.29x1.98mm, pin-PCB-offset 8.35mm, distance of mounting holes 25mm, distance of mounting holes to PCB edge 10.889999999999999mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf
+15-pin D-Sub connector horizontal angled 90deg THT female pitch 2.29x1.98mm pin-PCB-offset 8.35mm mounting-holes-distance 25mm mounting-hole-offset 25mm
+0
+17
+16
+Connector_Dsub
+DSUB-15-HD_Female_Horizontal_P2.29x1.98mm_EdgePinOffset9.40mm
+15-pin D-Sub connector, horizontal/angled (90 deg), THT-mount, female, pitch 2.29x1.98mm, pin-PCB-offset 9.4mm, see http://docs-europe.electrocomponents.com/webdocs/1585/0900766b81585df2.pdf
+15-pin D-Sub connector horizontal angled 90deg THT female pitch 2.29x1.98mm pin-PCB-offset 9.4mm
+0
+15
+15
+Connector_Dsub
+DSUB-15-HD_Female_Horizontal_P2.29x2.54mm_EdgePinOffset9.40mm
+15-pin D-Sub connector, horizontal/angled (90 deg), THT-mount, female, pitch 2.29x2.54mm, pin-PCB-offset 9.4mm, see http://docs-europe.electrocomponents.com/webdocs/1585/0900766b81585df2.pdf
+15-pin D-Sub connector horizontal angled 90deg THT female pitch 2.29x2.54mm pin-PCB-offset 9.4mm
+0
+15
+15
+Connector_Dsub
+DSUB-15-HD_Female_Vertical_P2.29x1.98mm_MountingHoles
+15-pin D-Sub connector, straight/vertical, THT-mount, female, pitch 2.29x1.98mm, distance of mounting holes 25mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf
+15-pin D-Sub connector straight vertical THT female pitch 2.29x1.98mm mounting holes distance 25mm
+0
+17
+16
+Connector_Dsub
+DSUB-15-HD_Male_Horizontal_P2.29x1.98mm_EdgePinOffset3.03mm_Housed_MountingHolesOffset4.94mm
+15-pin D-Sub connector, horizontal/angled (90 deg), THT-mount, male, pitch 2.29x1.98mm, pin-PCB-offset 3.0300000000000002mm, distance of mounting holes 25mm, distance of mounting holes to PCB edge 4.9399999999999995mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf
+15-pin D-Sub connector horizontal angled 90deg THT male pitch 2.29x1.98mm pin-PCB-offset 3.0300000000000002mm mounting-holes-distance 25mm mounting-hole-offset 25mm
+0
+17
+16
+Connector_Dsub
+DSUB-15-HD_Male_Horizontal_P2.29x1.98mm_EdgePinOffset8.35mm_Housed_MountingHolesOffset10.89mm
+15-pin D-Sub connector, horizontal/angled (90 deg), THT-mount, male, pitch 2.29x1.98mm, pin-PCB-offset 8.35mm, distance of mounting holes 25mm, distance of mounting holes to PCB edge 10.889999999999999mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf
+15-pin D-Sub connector horizontal angled 90deg THT male pitch 2.29x1.98mm pin-PCB-offset 8.35mm mounting-holes-distance 25mm mounting-hole-offset 25mm
+0
+17
+16
+Connector_Dsub
+DSUB-15-HD_Male_Horizontal_P2.29x1.98mm_EdgePinOffset9.40mm
+15-pin D-Sub connector, horizontal/angled (90 deg), THT-mount, male, pitch 2.29x1.98mm, pin-PCB-offset 9.4mm, see http://docs-europe.electrocomponents.com/webdocs/1585/0900766b81585df2.pdf
+15-pin D-Sub connector horizontal angled 90deg THT male pitch 2.29x1.98mm pin-PCB-offset 9.4mm
+0
+15
+15
+Connector_Dsub
+DSUB-15-HD_Male_Horizontal_P2.29x2.54mm_EdgePinOffset9.40mm
+15-pin D-Sub connector, horizontal/angled (90 deg), THT-mount, male, pitch 2.29x2.54mm, pin-PCB-offset 9.4mm, see http://docs-europe.electrocomponents.com/webdocs/1585/0900766b81585df2.pdf
+15-pin D-Sub connector horizontal angled 90deg THT male pitch 2.29x2.54mm pin-PCB-offset 9.4mm
+0
+15
+15
+Connector_Dsub
+DSUB-15-HD_Male_Vertical_P2.29x1.98mm_MountingHoles
+15-pin D-Sub connector, straight/vertical, THT-mount, male, pitch 2.29x1.98mm, distance of mounting holes 25mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf
+15-pin D-Sub connector straight vertical THT male pitch 2.29x1.98mm mounting holes distance 25mm
+0
+17
+16
+Connector_Dsub
+DSUB-15_Female_EdgeMount_P2.77mm
+15-pin D-Sub connector, solder-cups edge-mounted, female, x-pin-pitch 2.77mm, distance of mounting holes 33.3mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf
+15-pin D-Sub connector edge mount solder cup female x-pin-pitch 2.77mm mounting holes distance 33.3mm
+0
+15
+15
+Connector_Dsub
+DSUB-15_Female_Horizontal_P2.77x2.54mm_EdgePinOffset9.40mm
+15-pin D-Sub connector, horizontal/angled (90 deg), THT-mount, female, pitch 2.77x2.54mm, pin-PCB-offset 9.4mm, see http://docs-europe.electrocomponents.com/webdocs/1585/0900766b81585df2.pdf
+15-pin D-Sub connector horizontal angled 90deg THT female pitch 2.77x2.54mm pin-PCB-offset 9.4mm
+0
+15
+15
+Connector_Dsub
+DSUB-15_Female_Horizontal_P2.77x2.84mm_EdgePinOffset4.94mm_Housed_MountingHolesOffset7.48mm
+15-pin D-Sub connector, horizontal/angled (90 deg), THT-mount, female, pitch 2.77x2.84mm, pin-PCB-offset 4.9399999999999995mm, distance of mounting holes 33.3mm, distance of mounting holes to PCB edge 7.4799999999999995mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf
+15-pin D-Sub connector horizontal angled 90deg THT female pitch 2.77x2.84mm pin-PCB-offset 4.9399999999999995mm mounting-holes-distance 33.3mm mounting-hole-offset 33.3mm
+0
+17
+16
+Connector_Dsub
+DSUB-15_Female_Horizontal_P2.77x2.84mm_EdgePinOffset7.70mm_Housed_MountingHolesOffset9.12mm
+15-pin D-Sub connector, horizontal/angled (90 deg), THT-mount, female, pitch 2.77x2.84mm, pin-PCB-offset 7.699999999999999mm, distance of mounting holes 33.3mm, distance of mounting holes to PCB edge 9.12mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf
+15-pin D-Sub connector horizontal angled 90deg THT female pitch 2.77x2.84mm pin-PCB-offset 7.699999999999999mm mounting-holes-distance 33.3mm mounting-hole-offset 33.3mm
+0
+17
+16
+Connector_Dsub
+DSUB-15_Female_Horizontal_P2.77x2.84mm_EdgePinOffset9.40mm
+15-pin D-Sub connector, horizontal/angled (90 deg), THT-mount, female, pitch 2.77x2.84mm, pin-PCB-offset 9.4mm, see http://docs-europe.electrocomponents.com/webdocs/1585/0900766b81585df2.pdf
+15-pin D-Sub connector horizontal angled 90deg THT female pitch 2.77x2.84mm pin-PCB-offset 9.4mm
+0
+15
+15
+Connector_Dsub
+DSUB-15_Female_Horizontal_P2.77x2.84mm_EdgePinOffset9.90mm_Housed_MountingHolesOffset11.32mm
+15-pin D-Sub connector, horizontal/angled (90 deg), THT-mount, female, pitch 2.77x2.84mm, pin-PCB-offset 9.9mm, distance of mounting holes 33.3mm, distance of mounting holes to PCB edge 11.32mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf
+15-pin D-Sub connector horizontal angled 90deg THT female pitch 2.77x2.84mm pin-PCB-offset 9.9mm mounting-holes-distance 33.3mm mounting-hole-offset 33.3mm
+0
+17
+16
+Connector_Dsub
+DSUB-15_Female_Horizontal_P2.77x2.84mm_EdgePinOffset14.56mm_Housed_MountingHolesOffset8.20mm
+15-pin D-Sub connector, horizontal/angled (90 deg), THT-mount, female, pitch 2.77x2.84mm, pin-PCB-offset 14.56mm, distance of mounting holes 33.3mm, distance of mounting holes to PCB edge 8.2mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf
+15-pin D-Sub connector horizontal angled 90deg THT female pitch 2.77x2.84mm pin-PCB-offset 14.56mm mounting-holes-distance 33.3mm mounting-hole-offset 33.3mm
+0
+17
+16
+Connector_Dsub
+DSUB-15_Female_Horizontal_P2.77x2.84mm_EdgePinOffset14.56mm_Housed_MountingHolesOffset15.98mm
+15-pin D-Sub connector, horizontal/angled (90 deg), THT-mount, female, pitch 2.77x2.84mm, pin-PCB-offset 14.56mm, distance of mounting holes 33.3mm, distance of mounting holes to PCB edge 15.979999999999999mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf
+15-pin D-Sub connector horizontal angled 90deg THT female pitch 2.77x2.84mm pin-PCB-offset 14.56mm mounting-holes-distance 33.3mm mounting-hole-offset 33.3mm
+0
+17
+16
+Connector_Dsub
+DSUB-15_Female_Vertical_P2.77x2.84mm
+15-pin D-Sub connector, straight/vertical, THT-mount, female, pitch 2.77x2.84mm, distance of mounting holes 33.3mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf
+15-pin D-Sub connector straight vertical THT female pitch 2.77x2.84mm mounting holes distance 33.3mm
+0
+15
+15
+Connector_Dsub
+DSUB-15_Female_Vertical_P2.77x2.84mm_MountingHoles
+15-pin D-Sub connector, straight/vertical, THT-mount, female, pitch 2.77x2.84mm, distance of mounting holes 33.3mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf
+15-pin D-Sub connector straight vertical THT female pitch 2.77x2.84mm mounting holes distance 33.3mm
+0
+17
+16
+Connector_Dsub
+DSUB-15_Male_EdgeMount_P2.77mm
+15-pin D-Sub connector, solder-cups edge-mounted, male, x-pin-pitch 2.77mm, distance of mounting holes 33.3mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf
+15-pin D-Sub connector edge mount solder cup male x-pin-pitch 2.77mm mounting holes distance 33.3mm
+0
+15
+15
+Connector_Dsub
+DSUB-15_Male_Horizontal_P2.77x2.54mm_EdgePinOffset9.40mm
+15-pin D-Sub connector, horizontal/angled (90 deg), THT-mount, male, pitch 2.77x2.54mm, pin-PCB-offset 9.4mm, see http://docs-europe.electrocomponents.com/webdocs/1585/0900766b81585df2.pdf
+15-pin D-Sub connector horizontal angled 90deg THT male pitch 2.77x2.54mm pin-PCB-offset 9.4mm
+0
+15
+15
+Connector_Dsub
+DSUB-15_Male_Horizontal_P2.77x2.84mm_EdgePinOffset4.94mm_Housed_MountingHolesOffset7.48mm
+15-pin D-Sub connector, horizontal/angled (90 deg), THT-mount, male, pitch 2.77x2.84mm, pin-PCB-offset 4.9399999999999995mm, distance of mounting holes 33.3mm, distance of mounting holes to PCB edge 7.4799999999999995mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf
+15-pin D-Sub connector horizontal angled 90deg THT male pitch 2.77x2.84mm pin-PCB-offset 4.9399999999999995mm mounting-holes-distance 33.3mm mounting-hole-offset 33.3mm
+0
+17
+16
+Connector_Dsub
+DSUB-15_Male_Horizontal_P2.77x2.84mm_EdgePinOffset7.70mm_Housed_MountingHolesOffset9.12mm
+15-pin D-Sub connector, horizontal/angled (90 deg), THT-mount, male, pitch 2.77x2.84mm, pin-PCB-offset 7.699999999999999mm, distance of mounting holes 33.3mm, distance of mounting holes to PCB edge 9.12mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf
+15-pin D-Sub connector horizontal angled 90deg THT male pitch 2.77x2.84mm pin-PCB-offset 7.699999999999999mm mounting-holes-distance 33.3mm mounting-hole-offset 33.3mm
+0
+17
+16
+Connector_Dsub
+DSUB-15_Male_Horizontal_P2.77x2.84mm_EdgePinOffset9.40mm
+15-pin D-Sub connector, horizontal/angled (90 deg), THT-mount, male, pitch 2.77x2.84mm, pin-PCB-offset 9.4mm, see http://docs-europe.electrocomponents.com/webdocs/1585/0900766b81585df2.pdf
+15-pin D-Sub connector horizontal angled 90deg THT male pitch 2.77x2.84mm pin-PCB-offset 9.4mm
+0
+15
+15
+Connector_Dsub
+DSUB-15_Male_Horizontal_P2.77x2.84mm_EdgePinOffset9.90mm_Housed_MountingHolesOffset11.32mm
+15-pin D-Sub connector, horizontal/angled (90 deg), THT-mount, male, pitch 2.77x2.84mm, pin-PCB-offset 9.9mm, distance of mounting holes 33.3mm, distance of mounting holes to PCB edge 11.32mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf
+15-pin D-Sub connector horizontal angled 90deg THT male pitch 2.77x2.84mm pin-PCB-offset 9.9mm mounting-holes-distance 33.3mm mounting-hole-offset 33.3mm
+0
+17
+16
+Connector_Dsub
+DSUB-15_Male_Horizontal_P2.77x2.84mm_EdgePinOffset14.56mm_Housed_MountingHolesOffset8.20mm
+15-pin D-Sub connector, horizontal/angled (90 deg), THT-mount, male, pitch 2.77x2.84mm, pin-PCB-offset 14.56mm, distance of mounting holes 33.3mm, distance of mounting holes to PCB edge 8.2mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf
+15-pin D-Sub connector horizontal angled 90deg THT male pitch 2.77x2.84mm pin-PCB-offset 14.56mm mounting-holes-distance 33.3mm mounting-hole-offset 33.3mm
+0
+17
+16
+Connector_Dsub
+DSUB-15_Male_Horizontal_P2.77x2.84mm_EdgePinOffset14.56mm_Housed_MountingHolesOffset15.98mm
+15-pin D-Sub connector, horizontal/angled (90 deg), THT-mount, male, pitch 2.77x2.84mm, pin-PCB-offset 14.56mm, distance of mounting holes 33.3mm, distance of mounting holes to PCB edge 15.979999999999999mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf
+15-pin D-Sub connector horizontal angled 90deg THT male pitch 2.77x2.84mm pin-PCB-offset 14.56mm mounting-holes-distance 33.3mm mounting-hole-offset 33.3mm
+0
+17
+16
+Connector_Dsub
+DSUB-15_Male_Vertical_P2.77x2.84mm
+15-pin D-Sub connector, straight/vertical, THT-mount, male, pitch 2.77x2.84mm, distance of mounting holes 33.3mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf
+15-pin D-Sub connector straight vertical THT male pitch 2.77x2.84mm mounting holes distance 33.3mm
+0
+15
+15
+Connector_Dsub
+DSUB-15_Male_Vertical_P2.77x2.84mm_MountingHoles
+15-pin D-Sub connector, straight/vertical, THT-mount, male, pitch 2.77x2.84mm, distance of mounting holes 33.3mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf
+15-pin D-Sub connector straight vertical THT male pitch 2.77x2.84mm mounting holes distance 33.3mm
+0
+17
+16
+Connector_Dsub
+DSUB-25_Female_EdgeMount_P2.77mm
+25-pin D-Sub connector, solder-cups edge-mounted, female, x-pin-pitch 2.77mm, distance of mounting holes 47.1mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf
+25-pin D-Sub connector edge mount solder cup female x-pin-pitch 2.77mm mounting holes distance 47.1mm
+0
+25
+25
+Connector_Dsub
+DSUB-25_Female_Horizontal_P2.77x2.54mm_EdgePinOffset9.40mm
+25-pin D-Sub connector, horizontal/angled (90 deg), THT-mount, female, pitch 2.77x2.54mm, pin-PCB-offset 9.4mm, see http://docs-europe.electrocomponents.com/webdocs/1585/0900766b81585df2.pdf
+25-pin D-Sub connector horizontal angled 90deg THT female pitch 2.77x2.54mm pin-PCB-offset 9.4mm
+0
+25
+25
+Connector_Dsub
+DSUB-25_Female_Horizontal_P2.77x2.84mm_EdgePinOffset4.94mm_Housed_MountingHolesOffset7.48mm
+25-pin D-Sub connector, horizontal/angled (90 deg), THT-mount, female, pitch 2.77x2.84mm, pin-PCB-offset 4.9399999999999995mm, distance of mounting holes 47.1mm, distance of mounting holes to PCB edge 7.4799999999999995mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf
+25-pin D-Sub connector horizontal angled 90deg THT female pitch 2.77x2.84mm pin-PCB-offset 4.9399999999999995mm mounting-holes-distance 47.1mm mounting-hole-offset 47.1mm
+0
+27
+26
+Connector_Dsub
+DSUB-25_Female_Horizontal_P2.77x2.84mm_EdgePinOffset7.70mm_Housed_MountingHolesOffset9.12mm
+25-pin D-Sub connector, horizontal/angled (90 deg), THT-mount, female, pitch 2.77x2.84mm, pin-PCB-offset 7.699999999999999mm, distance of mounting holes 47.1mm, distance of mounting holes to PCB edge 9.12mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf
+25-pin D-Sub connector horizontal angled 90deg THT female pitch 2.77x2.84mm pin-PCB-offset 7.699999999999999mm mounting-holes-distance 47.1mm mounting-hole-offset 47.1mm
+0
+27
+26
+Connector_Dsub
+DSUB-25_Female_Horizontal_P2.77x2.84mm_EdgePinOffset9.40mm
+25-pin D-Sub connector, horizontal/angled (90 deg), THT-mount, female, pitch 2.77x2.84mm, pin-PCB-offset 9.4mm, see http://docs-europe.electrocomponents.com/webdocs/1585/0900766b81585df2.pdf
+25-pin D-Sub connector horizontal angled 90deg THT female pitch 2.77x2.84mm pin-PCB-offset 9.4mm
+0
+25
+25
+Connector_Dsub
+DSUB-25_Female_Horizontal_P2.77x2.84mm_EdgePinOffset9.90mm_Housed_MountingHolesOffset11.32mm
+25-pin D-Sub connector, horizontal/angled (90 deg), THT-mount, female, pitch 2.77x2.84mm, pin-PCB-offset 9.9mm, distance of mounting holes 47.1mm, distance of mounting holes to PCB edge 11.32mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf
+25-pin D-Sub connector horizontal angled 90deg THT female pitch 2.77x2.84mm pin-PCB-offset 9.9mm mounting-holes-distance 47.1mm mounting-hole-offset 47.1mm
+0
+27
+26
+Connector_Dsub
+DSUB-25_Female_Horizontal_P2.77x2.84mm_EdgePinOffset14.56mm_Housed_MountingHolesOffset8.20mm
+25-pin D-Sub connector, horizontal/angled (90 deg), THT-mount, female, pitch 2.77x2.84mm, pin-PCB-offset 14.56mm, distance of mounting holes 47.1mm, distance of mounting holes to PCB edge 8.2mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf
+25-pin D-Sub connector horizontal angled 90deg THT female pitch 2.77x2.84mm pin-PCB-offset 14.56mm mounting-holes-distance 47.1mm mounting-hole-offset 47.1mm
+0
+27
+26
+Connector_Dsub
+DSUB-25_Female_Horizontal_P2.77x2.84mm_EdgePinOffset14.56mm_Housed_MountingHolesOffset15.98mm
+25-pin D-Sub connector, horizontal/angled (90 deg), THT-mount, female, pitch 2.77x2.84mm, pin-PCB-offset 14.56mm, distance of mounting holes 47.1mm, distance of mounting holes to PCB edge 15.979999999999999mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf
+25-pin D-Sub connector horizontal angled 90deg THT female pitch 2.77x2.84mm pin-PCB-offset 14.56mm mounting-holes-distance 47.1mm mounting-hole-offset 47.1mm
+0
+27
+26
+Connector_Dsub
+DSUB-25_Female_Vertical_P2.77x2.84mm
+25-pin D-Sub connector, straight/vertical, THT-mount, female, pitch 2.77x2.84mm, distance of mounting holes 47.1mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf
+25-pin D-Sub connector straight vertical THT female pitch 2.77x2.84mm mounting holes distance 47.1mm
+0
+25
+25
+Connector_Dsub
+DSUB-25_Female_Vertical_P2.77x2.84mm_MountingHoles
+25-pin D-Sub connector, straight/vertical, THT-mount, female, pitch 2.77x2.84mm, distance of mounting holes 47.1mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf
+25-pin D-Sub connector straight vertical THT female pitch 2.77x2.84mm mounting holes distance 47.1mm
+0
+27
+26
+Connector_Dsub
+DSUB-25_Male_EdgeMount_P2.77mm
+25-pin D-Sub connector, solder-cups edge-mounted, male, x-pin-pitch 2.77mm, distance of mounting holes 47.1mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf
+25-pin D-Sub connector edge mount solder cup male x-pin-pitch 2.77mm mounting holes distance 47.1mm
+0
+25
+25
+Connector_Dsub
+DSUB-25_Male_Horizontal_P2.77x2.54mm_EdgePinOffset9.40mm
+25-pin D-Sub connector, horizontal/angled (90 deg), THT-mount, male, pitch 2.77x2.54mm, pin-PCB-offset 9.4mm, see http://docs-europe.electrocomponents.com/webdocs/1585/0900766b81585df2.pdf
+25-pin D-Sub connector horizontal angled 90deg THT male pitch 2.77x2.54mm pin-PCB-offset 9.4mm
+0
+25
+25
+Connector_Dsub
+DSUB-25_Male_Horizontal_P2.77x2.84mm_EdgePinOffset4.94mm_Housed_MountingHolesOffset7.48mm
+25-pin D-Sub connector, horizontal/angled (90 deg), THT-mount, male, pitch 2.77x2.84mm, pin-PCB-offset 4.9399999999999995mm, distance of mounting holes 47.1mm, distance of mounting holes to PCB edge 7.4799999999999995mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf
+25-pin D-Sub connector horizontal angled 90deg THT male pitch 2.77x2.84mm pin-PCB-offset 4.9399999999999995mm mounting-holes-distance 47.1mm mounting-hole-offset 47.1mm
+0
+27
+26
+Connector_Dsub
+DSUB-25_Male_Horizontal_P2.77x2.84mm_EdgePinOffset7.70mm_Housed_MountingHolesOffset9.12mm
+25-pin D-Sub connector, horizontal/angled (90 deg), THT-mount, male, pitch 2.77x2.84mm, pin-PCB-offset 7.699999999999999mm, distance of mounting holes 47.1mm, distance of mounting holes to PCB edge 9.12mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf
+25-pin D-Sub connector horizontal angled 90deg THT male pitch 2.77x2.84mm pin-PCB-offset 7.699999999999999mm mounting-holes-distance 47.1mm mounting-hole-offset 47.1mm
+0
+27
+26
+Connector_Dsub
+DSUB-25_Male_Horizontal_P2.77x2.84mm_EdgePinOffset9.40mm
+25-pin D-Sub connector, horizontal/angled (90 deg), THT-mount, male, pitch 2.77x2.84mm, pin-PCB-offset 9.4mm, see http://docs-europe.electrocomponents.com/webdocs/1585/0900766b81585df2.pdf
+25-pin D-Sub connector horizontal angled 90deg THT male pitch 2.77x2.84mm pin-PCB-offset 9.4mm
+0
+25
+25
+Connector_Dsub
+DSUB-25_Male_Horizontal_P2.77x2.84mm_EdgePinOffset9.90mm_Housed_MountingHolesOffset11.32mm
+25-pin D-Sub connector, horizontal/angled (90 deg), THT-mount, male, pitch 2.77x2.84mm, pin-PCB-offset 9.9mm, distance of mounting holes 47.1mm, distance of mounting holes to PCB edge 11.32mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf
+25-pin D-Sub connector horizontal angled 90deg THT male pitch 2.77x2.84mm pin-PCB-offset 9.9mm mounting-holes-distance 47.1mm mounting-hole-offset 47.1mm
+0
+27
+26
+Connector_Dsub
+DSUB-25_Male_Horizontal_P2.77x2.84mm_EdgePinOffset14.56mm_Housed_MountingHolesOffset8.20mm
+25-pin D-Sub connector, horizontal/angled (90 deg), THT-mount, male, pitch 2.77x2.84mm, pin-PCB-offset 14.56mm, distance of mounting holes 47.1mm, distance of mounting holes to PCB edge 8.2mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf
+25-pin D-Sub connector horizontal angled 90deg THT male pitch 2.77x2.84mm pin-PCB-offset 14.56mm mounting-holes-distance 47.1mm mounting-hole-offset 47.1mm
+0
+27
+26
+Connector_Dsub
+DSUB-25_Male_Horizontal_P2.77x2.84mm_EdgePinOffset14.56mm_Housed_MountingHolesOffset15.98mm
+25-pin D-Sub connector, horizontal/angled (90 deg), THT-mount, male, pitch 2.77x2.84mm, pin-PCB-offset 14.56mm, distance of mounting holes 47.1mm, distance of mounting holes to PCB edge 15.979999999999999mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf
+25-pin D-Sub connector horizontal angled 90deg THT male pitch 2.77x2.84mm pin-PCB-offset 14.56mm mounting-holes-distance 47.1mm mounting-hole-offset 47.1mm
+0
+27
+26
+Connector_Dsub
+DSUB-25_Male_Vertical_P2.77x2.84mm
+25-pin D-Sub connector, straight/vertical, THT-mount, male, pitch 2.77x2.84mm, distance of mounting holes 47.1mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf
+25-pin D-Sub connector straight vertical THT male pitch 2.77x2.84mm mounting holes distance 47.1mm
+0
+25
+25
+Connector_Dsub
+DSUB-25_Male_Vertical_P2.77x2.84mm_MountingHoles
+25-pin D-Sub connector, straight/vertical, THT-mount, male, pitch 2.77x2.84mm, distance of mounting holes 47.1mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf
+25-pin D-Sub connector straight vertical THT male pitch 2.77x2.84mm mounting holes distance 47.1mm
+0
+27
+26
+Connector_Dsub
+DSUB-26-HD_Female_Horizontal_P2.29x1.98mm_EdgePinOffset3.03mm_Housed_MountingHolesOffset4.94mm
+26-pin D-Sub connector, horizontal/angled (90 deg), THT-mount, female, pitch 2.29x1.98mm, pin-PCB-offset 3.0300000000000002mm, distance of mounting holes 33.3mm, distance of mounting holes to PCB edge 4.9399999999999995mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf
+26-pin D-Sub connector horizontal angled 90deg THT female pitch 2.29x1.98mm pin-PCB-offset 3.0300000000000002mm mounting-holes-distance 33.3mm mounting-hole-offset 33.3mm
+0
+28
+27
+Connector_Dsub
+DSUB-26-HD_Female_Horizontal_P2.29x1.98mm_EdgePinOffset8.35mm_Housed_MountingHolesOffset10.89mm
+26-pin D-Sub connector, horizontal/angled (90 deg), THT-mount, female, pitch 2.29x1.98mm, pin-PCB-offset 8.35mm, distance of mounting holes 33.3mm, distance of mounting holes to PCB edge 10.889999999999999mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf
+26-pin D-Sub connector horizontal angled 90deg THT female pitch 2.29x1.98mm pin-PCB-offset 8.35mm mounting-holes-distance 33.3mm mounting-hole-offset 33.3mm
+0
+28
+27
+Connector_Dsub
+DSUB-26-HD_Female_Horizontal_P2.29x1.98mm_EdgePinOffset9.40mm
+26-pin D-Sub connector, horizontal/angled (90 deg), THT-mount, female, pitch 2.29x1.98mm, pin-PCB-offset 9.4mm, see http://docs-europe.electrocomponents.com/webdocs/1585/0900766b81585df2.pdf
+26-pin D-Sub connector horizontal angled 90deg THT female pitch 2.29x1.98mm pin-PCB-offset 9.4mm
+0
+26
+26
+Connector_Dsub
+DSUB-26-HD_Female_Horizontal_P2.29x2.54mm_EdgePinOffset9.40mm
+26-pin D-Sub connector, horizontal/angled (90 deg), THT-mount, female, pitch 2.29x2.54mm, pin-PCB-offset 9.4mm, see http://docs-europe.electrocomponents.com/webdocs/1585/0900766b81585df2.pdf
+26-pin D-Sub connector horizontal angled 90deg THT female pitch 2.29x2.54mm pin-PCB-offset 9.4mm
+0
+26
+26
+Connector_Dsub
+DSUB-26-HD_Female_Vertical_P2.29x1.98mm_MountingHoles
+26-pin D-Sub connector, straight/vertical, THT-mount, female, pitch 2.29x1.98mm, distance of mounting holes 33.3mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf
+26-pin D-Sub connector straight vertical THT female pitch 2.29x1.98mm mounting holes distance 33.3mm
+0
+28
+27
+Connector_Dsub
+DSUB-26-HD_Male_Horizontal_P2.29x1.98mm_EdgePinOffset3.03mm_Housed_MountingHolesOffset4.94mm
+26-pin D-Sub connector, horizontal/angled (90 deg), THT-mount, male, pitch 2.29x1.98mm, pin-PCB-offset 3.0300000000000002mm, distance of mounting holes 33.3mm, distance of mounting holes to PCB edge 4.9399999999999995mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf
+26-pin D-Sub connector horizontal angled 90deg THT male pitch 2.29x1.98mm pin-PCB-offset 3.0300000000000002mm mounting-holes-distance 33.3mm mounting-hole-offset 33.3mm
+0
+28
+27
+Connector_Dsub
+DSUB-26-HD_Male_Horizontal_P2.29x1.98mm_EdgePinOffset8.35mm_Housed_MountingHolesOffset10.89mm
+26-pin D-Sub connector, horizontal/angled (90 deg), THT-mount, male, pitch 2.29x1.98mm, pin-PCB-offset 8.35mm, distance of mounting holes 33.3mm, distance of mounting holes to PCB edge 10.889999999999999mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf
+26-pin D-Sub connector horizontal angled 90deg THT male pitch 2.29x1.98mm pin-PCB-offset 8.35mm mounting-holes-distance 33.3mm mounting-hole-offset 33.3mm
+0
+28
+27
+Connector_Dsub
+DSUB-26-HD_Male_Horizontal_P2.29x1.98mm_EdgePinOffset9.40mm
+26-pin D-Sub connector, horizontal/angled (90 deg), THT-mount, male, pitch 2.29x1.98mm, pin-PCB-offset 9.4mm, see http://docs-europe.electrocomponents.com/webdocs/1585/0900766b81585df2.pdf
+26-pin D-Sub connector horizontal angled 90deg THT male pitch 2.29x1.98mm pin-PCB-offset 9.4mm
+0
+26
+26
+Connector_Dsub
+DSUB-26-HD_Male_Horizontal_P2.29x2.54mm_EdgePinOffset9.40mm
+26-pin D-Sub connector, horizontal/angled (90 deg), THT-mount, male, pitch 2.29x2.54mm, pin-PCB-offset 9.4mm, see http://docs-europe.electrocomponents.com/webdocs/1585/0900766b81585df2.pdf
+26-pin D-Sub connector horizontal angled 90deg THT male pitch 2.29x2.54mm pin-PCB-offset 9.4mm
+0
+26
+26
+Connector_Dsub
+DSUB-26-HD_Male_Vertical_P2.29x1.98mm_MountingHoles
+26-pin D-Sub connector, straight/vertical, THT-mount, male, pitch 2.29x1.98mm, distance of mounting holes 33.3mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf
+26-pin D-Sub connector straight vertical THT male pitch 2.29x1.98mm mounting holes distance 33.3mm
+0
+28
+27
+Connector_Dsub
+DSUB-37_Female_EdgeMount_P2.77mm
+37-pin D-Sub connector, solder-cups edge-mounted, female, x-pin-pitch 2.77mm, distance of mounting holes 63.5mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf
+37-pin D-Sub connector edge mount solder cup female x-pin-pitch 2.77mm mounting holes distance 63.5mm
+0
+37
+37
+Connector_Dsub
+DSUB-37_Female_Horizontal_P2.77x2.54mm_EdgePinOffset9.40mm
+37-pin D-Sub connector, horizontal/angled (90 deg), THT-mount, female, pitch 2.77x2.54mm, pin-PCB-offset 9.4mm, see http://docs-europe.electrocomponents.com/webdocs/1585/0900766b81585df2.pdf
+37-pin D-Sub connector horizontal angled 90deg THT female pitch 2.77x2.54mm pin-PCB-offset 9.4mm
+0
+37
+37
+Connector_Dsub
+DSUB-37_Female_Horizontal_P2.77x2.84mm_EdgePinOffset4.94mm_Housed_MountingHolesOffset7.48mm
+37-pin D-Sub connector, horizontal/angled (90 deg), THT-mount, female, pitch 2.77x2.84mm, pin-PCB-offset 4.9399999999999995mm, distance of mounting holes 63.5mm, distance of mounting holes to PCB edge 7.4799999999999995mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf
+37-pin D-Sub connector horizontal angled 90deg THT female pitch 2.77x2.84mm pin-PCB-offset 4.9399999999999995mm mounting-holes-distance 63.5mm mounting-hole-offset 63.5mm
+0
+39
+38
+Connector_Dsub
+DSUB-37_Female_Horizontal_P2.77x2.84mm_EdgePinOffset7.70mm_Housed_MountingHolesOffset9.12mm
+37-pin D-Sub connector, horizontal/angled (90 deg), THT-mount, female, pitch 2.77x2.84mm, pin-PCB-offset 7.699999999999999mm, distance of mounting holes 63.5mm, distance of mounting holes to PCB edge 9.12mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf
+37-pin D-Sub connector horizontal angled 90deg THT female pitch 2.77x2.84mm pin-PCB-offset 7.699999999999999mm mounting-holes-distance 63.5mm mounting-hole-offset 63.5mm
+0
+39
+38
+Connector_Dsub
+DSUB-37_Female_Horizontal_P2.77x2.84mm_EdgePinOffset9.40mm
+37-pin D-Sub connector, horizontal/angled (90 deg), THT-mount, female, pitch 2.77x2.84mm, pin-PCB-offset 9.4mm, see http://docs-europe.electrocomponents.com/webdocs/1585/0900766b81585df2.pdf
+37-pin D-Sub connector horizontal angled 90deg THT female pitch 2.77x2.84mm pin-PCB-offset 9.4mm
+0
+37
+37
+Connector_Dsub
+DSUB-37_Female_Horizontal_P2.77x2.84mm_EdgePinOffset9.90mm_Housed_MountingHolesOffset11.32mm
+37-pin D-Sub connector, horizontal/angled (90 deg), THT-mount, female, pitch 2.77x2.84mm, pin-PCB-offset 9.9mm, distance of mounting holes 63.5mm, distance of mounting holes to PCB edge 11.32mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf
+37-pin D-Sub connector horizontal angled 90deg THT female pitch 2.77x2.84mm pin-PCB-offset 9.9mm mounting-holes-distance 63.5mm mounting-hole-offset 63.5mm
+0
+39
+38
+Connector_Dsub
+DSUB-37_Female_Horizontal_P2.77x2.84mm_EdgePinOffset14.56mm_Housed_MountingHolesOffset8.20mm
+37-pin D-Sub connector, horizontal/angled (90 deg), THT-mount, female, pitch 2.77x2.84mm, pin-PCB-offset 14.56mm, distance of mounting holes 63.5mm, distance of mounting holes to PCB edge 8.2mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf
+37-pin D-Sub connector horizontal angled 90deg THT female pitch 2.77x2.84mm pin-PCB-offset 14.56mm mounting-holes-distance 63.5mm mounting-hole-offset 63.5mm
+0
+39
+38
+Connector_Dsub
+DSUB-37_Female_Horizontal_P2.77x2.84mm_EdgePinOffset14.56mm_Housed_MountingHolesOffset15.98mm
+37-pin D-Sub connector, horizontal/angled (90 deg), THT-mount, female, pitch 2.77x2.84mm, pin-PCB-offset 14.56mm, distance of mounting holes 63.5mm, distance of mounting holes to PCB edge 15.979999999999999mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf
+37-pin D-Sub connector horizontal angled 90deg THT female pitch 2.77x2.84mm pin-PCB-offset 14.56mm mounting-holes-distance 63.5mm mounting-hole-offset 63.5mm
+0
+39
+38
+Connector_Dsub
+DSUB-37_Female_Vertical_P2.77x2.84mm
+37-pin D-Sub connector, straight/vertical, THT-mount, female, pitch 2.77x2.84mm, distance of mounting holes 63.5mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf
+37-pin D-Sub connector straight vertical THT female pitch 2.77x2.84mm mounting holes distance 63.5mm
+0
+37
+37
+Connector_Dsub
+DSUB-37_Female_Vertical_P2.77x2.84mm_MountingHoles
+37-pin D-Sub connector, straight/vertical, THT-mount, female, pitch 2.77x2.84mm, distance of mounting holes 63.5mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf
+37-pin D-Sub connector straight vertical THT female pitch 2.77x2.84mm mounting holes distance 63.5mm
+0
+39
+38
+Connector_Dsub
+DSUB-37_Male_EdgeMount_P2.77mm
+37-pin D-Sub connector, solder-cups edge-mounted, male, x-pin-pitch 2.77mm, distance of mounting holes 63.5mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf
+37-pin D-Sub connector edge mount solder cup male x-pin-pitch 2.77mm mounting holes distance 63.5mm
+0
+37
+37
+Connector_Dsub
+DSUB-37_Male_Horizontal_P2.77x2.54mm_EdgePinOffset9.40mm
+37-pin D-Sub connector, horizontal/angled (90 deg), THT-mount, male, pitch 2.77x2.54mm, pin-PCB-offset 9.4mm, see http://docs-europe.electrocomponents.com/webdocs/1585/0900766b81585df2.pdf
+37-pin D-Sub connector horizontal angled 90deg THT male pitch 2.77x2.54mm pin-PCB-offset 9.4mm
+0
+37
+37
+Connector_Dsub
+DSUB-37_Male_Horizontal_P2.77x2.84mm_EdgePinOffset4.94mm_Housed_MountingHolesOffset7.48mm
+37-pin D-Sub connector, horizontal/angled (90 deg), THT-mount, male, pitch 2.77x2.84mm, pin-PCB-offset 4.9399999999999995mm, distance of mounting holes 63.5mm, distance of mounting holes to PCB edge 7.4799999999999995mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf
+37-pin D-Sub connector horizontal angled 90deg THT male pitch 2.77x2.84mm pin-PCB-offset 4.9399999999999995mm mounting-holes-distance 63.5mm mounting-hole-offset 63.5mm
+0
+39
+38
+Connector_Dsub
+DSUB-37_Male_Horizontal_P2.77x2.84mm_EdgePinOffset7.70mm_Housed_MountingHolesOffset9.12mm
+37-pin D-Sub connector, horizontal/angled (90 deg), THT-mount, male, pitch 2.77x2.84mm, pin-PCB-offset 7.699999999999999mm, distance of mounting holes 63.5mm, distance of mounting holes to PCB edge 9.12mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf
+37-pin D-Sub connector horizontal angled 90deg THT male pitch 2.77x2.84mm pin-PCB-offset 7.699999999999999mm mounting-holes-distance 63.5mm mounting-hole-offset 63.5mm
+0
+39
+38
+Connector_Dsub
+DSUB-37_Male_Horizontal_P2.77x2.84mm_EdgePinOffset9.40mm
+37-pin D-Sub connector, horizontal/angled (90 deg), THT-mount, male, pitch 2.77x2.84mm, pin-PCB-offset 9.4mm, see http://docs-europe.electrocomponents.com/webdocs/1585/0900766b81585df2.pdf
+37-pin D-Sub connector horizontal angled 90deg THT male pitch 2.77x2.84mm pin-PCB-offset 9.4mm
+0
+37
+37
+Connector_Dsub
+DSUB-37_Male_Horizontal_P2.77x2.84mm_EdgePinOffset9.90mm_Housed_MountingHolesOffset11.32mm
+37-pin D-Sub connector, horizontal/angled (90 deg), THT-mount, male, pitch 2.77x2.84mm, pin-PCB-offset 9.9mm, distance of mounting holes 63.5mm, distance of mounting holes to PCB edge 11.32mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf
+37-pin D-Sub connector horizontal angled 90deg THT male pitch 2.77x2.84mm pin-PCB-offset 9.9mm mounting-holes-distance 63.5mm mounting-hole-offset 63.5mm
+0
+39
+38
+Connector_Dsub
+DSUB-37_Male_Horizontal_P2.77x2.84mm_EdgePinOffset14.56mm_Housed_MountingHolesOffset8.20mm
+37-pin D-Sub connector, horizontal/angled (90 deg), THT-mount, male, pitch 2.77x2.84mm, pin-PCB-offset 14.56mm, distance of mounting holes 63.5mm, distance of mounting holes to PCB edge 8.2mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf
+37-pin D-Sub connector horizontal angled 90deg THT male pitch 2.77x2.84mm pin-PCB-offset 14.56mm mounting-holes-distance 63.5mm mounting-hole-offset 63.5mm
+0
+39
+38
+Connector_Dsub
+DSUB-37_Male_Horizontal_P2.77x2.84mm_EdgePinOffset14.56mm_Housed_MountingHolesOffset15.98mm
+37-pin D-Sub connector, horizontal/angled (90 deg), THT-mount, male, pitch 2.77x2.84mm, pin-PCB-offset 14.56mm, distance of mounting holes 63.5mm, distance of mounting holes to PCB edge 15.979999999999999mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf
+37-pin D-Sub connector horizontal angled 90deg THT male pitch 2.77x2.84mm pin-PCB-offset 14.56mm mounting-holes-distance 63.5mm mounting-hole-offset 63.5mm
+0
+39
+38
+Connector_Dsub
+DSUB-37_Male_Vertical_P2.77x2.84mm
+37-pin D-Sub connector, straight/vertical, THT-mount, male, pitch 2.77x2.84mm, distance of mounting holes 63.5mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf
+37-pin D-Sub connector straight vertical THT male pitch 2.77x2.84mm mounting holes distance 63.5mm
+0
+37
+37
+Connector_Dsub
+DSUB-37_Male_Vertical_P2.77x2.84mm_MountingHoles
+37-pin D-Sub connector, straight/vertical, THT-mount, male, pitch 2.77x2.84mm, distance of mounting holes 63.5mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf
+37-pin D-Sub connector straight vertical THT male pitch 2.77x2.84mm mounting holes distance 63.5mm
+0
+39
+38
+Connector_Dsub
+DSUB-44-HD_Female_Horizontal_P2.29x1.98mm_EdgePinOffset3.03mm_Housed_MountingHolesOffset4.94mm
+44-pin D-Sub connector, horizontal/angled (90 deg), THT-mount, female, pitch 2.29x1.98mm, pin-PCB-offset 3.0300000000000002mm, distance of mounting holes 47.1mm, distance of mounting holes to PCB edge 4.9399999999999995mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf
+44-pin D-Sub connector horizontal angled 90deg THT female pitch 2.29x1.98mm pin-PCB-offset 3.0300000000000002mm mounting-holes-distance 47.1mm mounting-hole-offset 47.1mm
+0
+46
+45
+Connector_Dsub
+DSUB-44-HD_Female_Horizontal_P2.29x1.98mm_EdgePinOffset8.35mm_Housed_MountingHolesOffset10.89mm
+44-pin D-Sub connector, horizontal/angled (90 deg), THT-mount, female, pitch 2.29x1.98mm, pin-PCB-offset 8.35mm, distance of mounting holes 47.1mm, distance of mounting holes to PCB edge 10.889999999999999mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf
+44-pin D-Sub connector horizontal angled 90deg THT female pitch 2.29x1.98mm pin-PCB-offset 8.35mm mounting-holes-distance 47.1mm mounting-hole-offset 47.1mm
+0
+46
+45
+Connector_Dsub
+DSUB-44-HD_Female_Horizontal_P2.29x1.98mm_EdgePinOffset9.40mm
+44-pin D-Sub connector, horizontal/angled (90 deg), THT-mount, female, pitch 2.29x1.98mm, pin-PCB-offset 9.4mm, see http://docs-europe.electrocomponents.com/webdocs/1585/0900766b81585df2.pdf
+44-pin D-Sub connector horizontal angled 90deg THT female pitch 2.29x1.98mm pin-PCB-offset 9.4mm
+0
+44
+44
+Connector_Dsub
+DSUB-44-HD_Female_Horizontal_P2.29x2.54mm_EdgePinOffset9.40mm
+44-pin D-Sub connector, horizontal/angled (90 deg), THT-mount, female, pitch 2.29x2.54mm, pin-PCB-offset 9.4mm, see http://docs-europe.electrocomponents.com/webdocs/1585/0900766b81585df2.pdf
+44-pin D-Sub connector horizontal angled 90deg THT female pitch 2.29x2.54mm pin-PCB-offset 9.4mm
+0
+44
+44
+Connector_Dsub
+DSUB-44-HD_Female_Vertical_P2.29x1.98mm_MountingHoles
+44-pin D-Sub connector, straight/vertical, THT-mount, female, pitch 2.29x1.98mm, distance of mounting holes 47.1mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf
+44-pin D-Sub connector straight vertical THT female pitch 2.29x1.98mm mounting holes distance 47.1mm
+0
+46
+45
+Connector_Dsub
+DSUB-44-HD_Male_Horizontal_P2.29x1.98mm_EdgePinOffset3.03mm_Housed_MountingHolesOffset4.94mm
+44-pin D-Sub connector, horizontal/angled (90 deg), THT-mount, male, pitch 2.29x1.98mm, pin-PCB-offset 3.0300000000000002mm, distance of mounting holes 47.1mm, distance of mounting holes to PCB edge 4.9399999999999995mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf
+44-pin D-Sub connector horizontal angled 90deg THT male pitch 2.29x1.98mm pin-PCB-offset 3.0300000000000002mm mounting-holes-distance 47.1mm mounting-hole-offset 47.1mm
+0
+46
+45
+Connector_Dsub
+DSUB-44-HD_Male_Horizontal_P2.29x1.98mm_EdgePinOffset8.35mm_Housed_MountingHolesOffset10.89mm
+44-pin D-Sub connector, horizontal/angled (90 deg), THT-mount, male, pitch 2.29x1.98mm, pin-PCB-offset 8.35mm, distance of mounting holes 47.1mm, distance of mounting holes to PCB edge 10.889999999999999mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf
+44-pin D-Sub connector horizontal angled 90deg THT male pitch 2.29x1.98mm pin-PCB-offset 8.35mm mounting-holes-distance 47.1mm mounting-hole-offset 47.1mm
+0
+46
+45
+Connector_Dsub
+DSUB-44-HD_Male_Horizontal_P2.29x1.98mm_EdgePinOffset9.40mm
+44-pin D-Sub connector, horizontal/angled (90 deg), THT-mount, male, pitch 2.29x1.98mm, pin-PCB-offset 9.4mm, see http://docs-europe.electrocomponents.com/webdocs/1585/0900766b81585df2.pdf
+44-pin D-Sub connector horizontal angled 90deg THT male pitch 2.29x1.98mm pin-PCB-offset 9.4mm
+0
+44
+44
+Connector_Dsub
+DSUB-44-HD_Male_Horizontal_P2.29x2.54mm_EdgePinOffset9.40mm
+44-pin D-Sub connector, horizontal/angled (90 deg), THT-mount, male, pitch 2.29x2.54mm, pin-PCB-offset 9.4mm, see http://docs-europe.electrocomponents.com/webdocs/1585/0900766b81585df2.pdf
+44-pin D-Sub connector horizontal angled 90deg THT male pitch 2.29x2.54mm pin-PCB-offset 9.4mm
+0
+44
+44
+Connector_Dsub
+DSUB-44-HD_Male_Vertical_P2.29x1.98mm_MountingHoles
+44-pin D-Sub connector, straight/vertical, THT-mount, male, pitch 2.29x1.98mm, distance of mounting holes 47.1mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf
+44-pin D-Sub connector straight vertical THT male pitch 2.29x1.98mm mounting holes distance 47.1mm
+0
+46
+45
+Connector_Dsub
+DSUB-62-HD_Female_Horizontal_P2.41x1.98mm_EdgePinOffset3.03mm_Housed_MountingHolesOffset4.94mm
+62-pin D-Sub connector, horizontal/angled (90 deg), THT-mount, female, pitch 2.41x1.98mm, pin-PCB-offset 3.0300000000000002mm, distance of mounting holes 63.5mm, distance of mounting holes to PCB edge 4.9399999999999995mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf
+62-pin D-Sub connector horizontal angled 90deg THT female pitch 2.41x1.98mm pin-PCB-offset 3.0300000000000002mm mounting-holes-distance 63.5mm mounting-hole-offset 63.5mm
+0
+64
+63
+Connector_Dsub
+DSUB-62-HD_Female_Horizontal_P2.41x1.98mm_EdgePinOffset8.35mm_Housed_MountingHolesOffset10.89mm
+62-pin D-Sub connector, horizontal/angled (90 deg), THT-mount, female, pitch 2.41x1.98mm, pin-PCB-offset 8.35mm, distance of mounting holes 63.5mm, distance of mounting holes to PCB edge 10.889999999999999mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf
+62-pin D-Sub connector horizontal angled 90deg THT female pitch 2.41x1.98mm pin-PCB-offset 8.35mm mounting-holes-distance 63.5mm mounting-hole-offset 63.5mm
+0
+64
+63
+Connector_Dsub
+DSUB-62-HD_Female_Horizontal_P2.41x1.98mm_EdgePinOffset9.40mm
+62-pin D-Sub connector, horizontal/angled (90 deg), THT-mount, female, pitch 2.41x1.98mm, pin-PCB-offset 9.4mm, see http://docs-europe.electrocomponents.com/webdocs/1585/0900766b81585df2.pdf
+62-pin D-Sub connector horizontal angled 90deg THT female pitch 2.41x1.98mm pin-PCB-offset 9.4mm
+0
+62
+62
+Connector_Dsub
+DSUB-62-HD_Female_Horizontal_P2.41x2.54mm_EdgePinOffset9.40mm
+62-pin D-Sub connector, horizontal/angled (90 deg), THT-mount, female, pitch 2.41x2.54mm, pin-PCB-offset 9.4mm, see http://docs-europe.electrocomponents.com/webdocs/1585/0900766b81585df2.pdf
+62-pin D-Sub connector horizontal angled 90deg THT female pitch 2.41x2.54mm pin-PCB-offset 9.4mm
+0
+62
+62
+Connector_Dsub
+DSUB-62-HD_Female_Vertical_P2.41x1.98mm_MountingHoles
+62-pin D-Sub connector, straight/vertical, THT-mount, female, pitch 2.41x1.98mm, distance of mounting holes 63.5mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf
+62-pin D-Sub connector straight vertical THT female pitch 2.41x1.98mm mounting holes distance 63.5mm
+0
+64
+63
+Connector_Dsub
+DSUB-62-HD_Male_Horizontal_P2.41x1.98mm_EdgePinOffset3.03mm_Housed_MountingHolesOffset4.94mm
+62-pin D-Sub connector, horizontal/angled (90 deg), THT-mount, male, pitch 2.41x1.98mm, pin-PCB-offset 3.0300000000000002mm, distance of mounting holes 63.5mm, distance of mounting holes to PCB edge 4.9399999999999995mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf
+62-pin D-Sub connector horizontal angled 90deg THT male pitch 2.41x1.98mm pin-PCB-offset 3.0300000000000002mm mounting-holes-distance 63.5mm mounting-hole-offset 63.5mm
+0
+64
+63
+Connector_Dsub
+DSUB-62-HD_Male_Horizontal_P2.41x1.98mm_EdgePinOffset8.35mm_Housed_MountingHolesOffset10.89mm
+62-pin D-Sub connector, horizontal/angled (90 deg), THT-mount, male, pitch 2.41x1.98mm, pin-PCB-offset 8.35mm, distance of mounting holes 63.5mm, distance of mounting holes to PCB edge 10.889999999999999mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf
+62-pin D-Sub connector horizontal angled 90deg THT male pitch 2.41x1.98mm pin-PCB-offset 8.35mm mounting-holes-distance 63.5mm mounting-hole-offset 63.5mm
+0
+64
+63
+Connector_Dsub
+DSUB-62-HD_Male_Horizontal_P2.41x1.98mm_EdgePinOffset9.40mm
+62-pin D-Sub connector, horizontal/angled (90 deg), THT-mount, male, pitch 2.41x1.98mm, pin-PCB-offset 9.4mm, see http://docs-europe.electrocomponents.com/webdocs/1585/0900766b81585df2.pdf
+62-pin D-Sub connector horizontal angled 90deg THT male pitch 2.41x1.98mm pin-PCB-offset 9.4mm
+0
+62
+62
+Connector_Dsub
+DSUB-62-HD_Male_Horizontal_P2.41x2.54mm_EdgePinOffset9.40mm
+62-pin D-Sub connector, horizontal/angled (90 deg), THT-mount, male, pitch 2.41x2.54mm, pin-PCB-offset 9.4mm, see http://docs-europe.electrocomponents.com/webdocs/1585/0900766b81585df2.pdf
+62-pin D-Sub connector horizontal angled 90deg THT male pitch 2.41x2.54mm pin-PCB-offset 9.4mm
+0
+62
+62
+Connector_Dsub
+DSUB-62-HD_Male_Vertical_P2.41x1.98mm_MountingHoles
+62-pin D-Sub connector, straight/vertical, THT-mount, male, pitch 2.41x1.98mm, distance of mounting holes 63.5mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf
+62-pin D-Sub connector straight vertical THT male pitch 2.41x1.98mm mounting holes distance 63.5mm
+0
+64
+63
+Connector_RF
+CONUFL001-SMD-T
+CONUFL001-SMD-T
+CONUFL001-SMD-T
+0
+3
+2
+Connector_RF
+SMA_132134-10
+SMA_132134-10
+SMA_132134-10
+0
+3
+2
+Connector_RJ45
+0955016890
+0955016890
+0955016890
+0
+10
+9
+Connector_RJ45
+J00-00XXNL
+StarJack<p>1x1 Tab-DOWN RJ45
+
+0
+14
+14
+Connector_SMD
+2x05_Connector_1.00_Vertical_SMD
+
+2x05 Connector
+0
+10
+10
+Connector_SMD
+2x08_Connector_1.00_Vertical_SMD
+
+SMD 2x08 1.00mm
+0
+16
+16
+Connector_SMD
+FX10A-120S-P-SV
+FX10A-120S-P-SV
+FX10A-120S-P-SV
+0
+124
+124
+Connector_THT
+1x02_Connector_2.0_Vertical_THT
+
+1x02
+0
+2
+2
+Connector_USB
+AU-Y1008-2
+
+
+0
+12
+9
+Diode
+D_0402
+D_0402
+D_0402
+0
+2
+2
+Diode
+D_0603
+Diode SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+diode
+0
+2
+2
+Diode
+D_0805
+D_0805
+D_0805
+0
+2
+2
+Fiducial
+Fiducial_0.50mm_Mask_1.0mm
+Fiducial_0.50mm_Mask_1.0mm
+Fiducial_0.50mm_Mask_1.0mm
+0
+1
+0
+Fiducial
+Fiducial_0.50mm_Mask_1.5mm
+Fiducial_0.50mm_Mask_1.5mm
+Fiducial_0.50mm_Mask_1.5mm
+0
+1
+0
+Fiducial
+Fiducial_0.75mm_Mask_1.5mm
+Fiducial_0.75mm_Mask_1.5mm
+Fiducial_0.75mm_Mask_1.5mm
+0
+1
+0
+Fiducial
+Fiducial_1.00mm_Mask_2.0mm
+Fiducial_1.00mm_Mask_2.0mm
+Fiducial_1.00mm_Mask_2.0mm
+0
+1
+0
+Fiducial
+Fiducial_1.00mm_Mask_3.0mm
+Fiducial_1.00mm_Mask_3.0mm
+Fiducial_1.00mm_Mask_3.0mm
+0
+1
+0
+Fiducial
+Fiducial_1.50mm_Mask_3.0mm
+Fiducial_1.50mm_Mask_3.0mm
+Fiducial_1.50mm_Mask_3.0mm
+0
+1
+0
+Fiducial
+Fiducial_1.50mm_Mask_4.5mm
+Fiducial_1.50mm_Mask_4.5mm
+Fiducial_1.50mm_Mask_4.5mm
+0
+1
+0
+Inductor
+L_0805
+L_0805
+L_0805
+0
+2
+2
+Jumper
+R0402_Jumper
+R0402_Jumper
+R0402_Jumper
+0
+3
+3
+LED
+LED_0402
+LED_0402
+LED_0402
+0
+2
+2
+L_PWR
+WE_HCI_1365
+WE_HCI_1365
+WE_HCI_1365
+0
+2
+2
+L_PWR
+XAL_8080
+XAL_8080
+XAL_8080
+0
+2
+2
+L_PWR
+XGL_4040
+XGL_4040
+XGL_4040
+0
+2
+2
+Mechanical
+MountingHole_2.2mm_M2_Pad
+MountingHole_2.2mm_M2_Pad
+MountingHole_2.2mm_M2_Pad
+0
+1
+1
+Misc
+MOSFET_SComp
+
+
+0
+0
+0
+Oscillator
+OSC-3.2x1.5
+OSC-3.2x1.5
+OSC-3.2x1.5
+0
+2
+2
+Oscillator
+OSC-3.2x2.5
+
+SMD SMT crystal
+0
+4
+4
+Oscillator
+OSC_2.0x1.6
+
+
+0
+4
+4
+Package_BGA
+STM32MP157AAA3
+STM32MP157AAA3
+STM32MP157AAA3
+0
+448
+448
+Package_BGA
+TF_BGA96
+TF_BGA96
+TF_BGA96
+0
+96
+96
+Package_BGA
+WFBGA153
+WFBGA153
+WFBGA153, eMMC
+0
+153
+153
+Package_MOSFET
+PowerPAK-8x8L
+
+
+0
+6
+6
+Package_MOSFET
+PowerPAK-1212-8S
+
+
+0
+9
+8
+Package_QFN_DFN
+DFN-10-1EP_3x3
+DFN-10-1EP_3x3
+DFN-10-1EP_3x3
+0
+15
+11
+Package_QFN_DFN
+QFN-20-3x4-P0.5
+QFN-20-3x4-P0.5
+QFN-20-3x4-P0.5
+0
+25
+21
+Package_QFN_DFN
+QFN-32-4x4-P0.4
+QFN-32-4x4-P0.4
+QFN-32-4x4-P0.4
+0
+37
+33
+Package_QFN_DFN
+QFN-32-5x5-P0.5[TP2.1x2.1]
+QFN, 32 Pin (http://ww1.microchip.com/downloads/en/DeviceDoc/8008S.pdf#page=20), generated with kicad-footprint-generator ipc_noLead_generator.py
+QFN NoLead
+0
+33
+33
+Package_QFN_DFN
+VQFN-14
+
+
+0
+20
+16
+Package_QFN_DFN
+WDFN-10L-3x3
+WDFN-10L-3x3
+WDFN-10L-3x3
+0
+11
+11
+Package_QFN_DFN
+WQFN-48
+
+
+0
+49
+49
+Package_Random
+AOZ2261AQI
+AOZ2261AQI
+AOZ2261AQI
+0
+22
+22
+Package_SO
+HTSSOP-14-[4.4x5]_P0.65
+
+
+0
+15
+15
+Package_SO
+HTSSOP-16
+
+
+0
+23
+18
+Package_SO
+MSOP-8-3x3
+MSOP-8-3x3
+MSOP-8-3x3
+0
+8
+8
+Package_SO
+MSOP-10-[3x3]-P0.5
+MSOP, 10 Pin (https://www.analog.com/media/en/technical-documentation/data-sheets/3805fg.pdf#page=18), generated with kicad-footprint-generator ipc_gullwing_generator.py
+MSOP SO
+0
+15
+11
+Package_SO
+SOIC-8-13.9x4.9
+SOIC, 8 Pin (https://www.analog.com/media/en/technical-documentation/data-sheets/ada4898-1_4898-2.pdf#page=29), generated with kicad-footprint-generator ipc_gullwing_generator.py
+SOIC SO
+0
+13
+9
+Package_SO
+TSSOP-20_P0.65
+TSSOP-20EP
+TSSOP-20EP
+0
+21
+21
+Package_SO
+TSSOP-56-[6.1x14]-P0.5
+TSSOP-56-[6.1x14]-P0.5
+TSSOP-56-[6.1x14]-P0.5
+0
+56
+56
+Package_SON
+HVSON-8-[3x3]-P0.65
+
+
+0
+9
+9
+Package_SON
+SON-5x6
+SON-5x6
+SON-5x6
+0
+9
+8
+Package_SON
+TSON_Advance_TOS
+TSON_Advance_TOS
+TSON_Advance_TOS
+0
+9
+8
+Package_SON
+WSON-8-4x4
+
+
+0
+9
+9
+Package_SON
+WSON-8-6x5
+WSON-8-6x5
+WSON-8-6x5
+0
+9
+9
+Package_SON
+WSON-8-[3x3]-P0.5
+8-Lead Plastic WSON, 2x2mm Body, 0.5mm Pitch, WSON-8, http://www.ti.com/lit/ds/symlink/lm27761.pdf
+WSON 8 1EP
+0
+13
+9
+Package_SON
+WSON-12_4x4
+WSON-12_4x4
+WSON-12_4x4
+0
+17
+13
+Package_SOT
+SOT-23-5
+SOT, 5 Pin (https://www.jedec.org/sites/default/files/docs/Mo-178c.PDF variant AA), generated with kicad-footprint-generator ipc_gullwing_generator.py
+SOT TO_SOT_SMD
+0
+5
+5
+Package_SOT
+SOT-323_SC-70
+SOT-323, SC-70
+SOT-323 SC-70
+0
+3
+3
+Package_SOT
+SOT-353_SC-70-5
+SOT-353, SC-70-5
+SOT-353 SC-70-5
+0
+5
+5
+Package_TO
+TO-263-2
+TO-263 / D2PAK / DDPAK SMD package, http://www.infineon.com/cms/en/product/packages/PG-TO263/PG-TO263-3-1/
+D2PAK DDPAK TO-263 D2PAK-3 TO-263-3 SOT-404
+0
+7
+3
+Resistor
+R_0402
+R_0402
+R_0402
+0
+2
+2
+Resistor
+R_0603
+R_0603
+R_0603
+0
+2
+2
+Resistor
+R_0805
+R_0805
+R_0805
+0
+2
+2
+Resistor
+R_2512
+Resistor SMD 2512 (6332 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
+resistor
+0
+2
+2
+TP
+Solder_Pad
+
+Jumper
+0
+1
+1
+TP
+TP
+TP
+TP
+0
+1
+1
+Terminal_Block
+CUI_TB006-508-04BE
+
+
+0
+4
+4
+Terminal_Block
+CUI_TB006-508-06BE
+
+
+0
+6
+6
+Terminal_Block
+CUI_TB006-508-08BE
+CUI_TB006-508-08BE
+CUI_TB006-508-08BE
+0
+8
+8
