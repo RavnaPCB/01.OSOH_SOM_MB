@@ -26,7 +26,7 @@ Development of different, robust [Open Hardware] SOM Modules, Motherboards and S
 
 [CommonLIB](https://github.com/IvanIlievOSOH/00.CommonLIB) - Custom KiCAD Library
 
-## Knows Issues, Flaws and Quirks 
+## Knows Issues, Flaws and Quirks [Detailed Descriptions in the 'Issues' Tab]
 
 > The components i picked are not the best ones currently "in production" nor the most suitable ones, but when i started this project a few months ago, i had the intention to have the PCBs manufactured and assembled, so i had to work with what was available on Mouser and Digikey.
 
@@ -36,7 +36,7 @@ Development of different, robust [Open Hardware] SOM Modules, Motherboards and S
 
 > Potential "Thombstoning" problems during reflow soldering.
 
-> In hindsight, most of the issues and mistakes could have been avoided (at least the most noticeable ones) if i did more research and prepared better before i started routing the PCB. 
+> In hindsight, most of the issues and mistakes could have easily been avoided at an earlier stage of the design, if more research was done, but I decided to upload it now, as a [Work In Progress], so i can hopefully get some constructive criticism, before the next revision.
 
     All your feedback, cirticism and recommendations will be greatly appreciated.
 
