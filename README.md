@@ -6,7 +6,7 @@
     
 ## Introduction
 
-I started this project a few months ago, in order to learn PCB Design, and deepen my electronics knowledge, with the intention to eventually publicly release the development files, so other people could learn from them and my mistakes, and maybe at some point, after all the issues are sorted out - use it as a reference.
+I started this project a few months ago, in order to learn PCB Design, and deepen my knowledge in electronics, with the intention to eventually publicly release the development files, so other people could learn from them and my mistakes, and maybe at some point, after all the issues are sorted out - use it as a reference.
 
 A detailed explanation of how each circuit works and why things are connected and routed the way they are will be included at some point in the future.
 
@@ -18,11 +18,13 @@ Development of different, robust [Open Hardware] SOM Modules, Motherboards and S
 
 [KiCAD](https://www.kicad.org/) - A Cross Platform and Open Source Electronics Design Automation Suite
 
-[LibreOFFICE](https://www.libreoffice.org)  - Office SUite
+[LibreOFFICE](https://www.libreoffice.org)  - Office Suite
 
 [FreeCAD](https://www.freecadweb.org/)  - 3D Parametric Modeler
 
 [FEMM](https://www.femm.info/wiki/Download) - Finite Element Method Magnetics
+
+[CommonLIB](https://github.com/IvanIlievOSOH/00.CommonLIB) - Custom KiCAD Library
 
 ## Knows Issues, Flaws and Quirks 
 
