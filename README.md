@@ -38,6 +38,6 @@ Development of different and robust [Open Hardware] SOM Modules, Motherboards an
 
 > In hindsight, most of the issues and mistakes could have easily been avoided at an earlier stage of the design, if more research was done, but I decided to upload it now, as a [Work In Progress], so i can hopefully get some constructive criticism, before the next revision.
 
-    All your feedback, cirticism and recommendations will be greatly appreciated.
+    All your feedback, cirticism, help and suggestions will be greatly appreciated.
 
 ![](https://github.com/IvanIlievOSOH/00.GitHUB_Config/blob/main/Showcase.png)
