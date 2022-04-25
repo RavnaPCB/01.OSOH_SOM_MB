@@ -12,7 +12,7 @@ A detailed explanation of how each circuit works and why things are connected an
 
 ## Future Plans
 
-Development of different and robust [Open Hardware] System On Modules [SOM], Motherboards and Single Board Computers [SBC] capable of operating in the industrial temperature range.
+Development of different, robust [Open Hardware] Systems On Module [SOM], Motherboards and Single Board Computers [SBC] capable of operating in the industrial temperature range.
 
 ## Software Requirements [OpenSource]
 
