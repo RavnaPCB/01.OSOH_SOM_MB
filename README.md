@@ -32,7 +32,7 @@ Development of different and robust [Open Hardware] SOM Modules, Motherboards an
 
 > There are some things that don't make much sense at first glance (unused pads, holes in the solder mask, unnecessary components etc). This was done because i wanted to do some measurements and experiments with the PCBs so i can prove some rules and concepts to me.
 
-> There are also a few but very obvious and probably critical "SI" and "PI" issues (Dual Stripline traces running parallel to eachother longer than they should, one of the eMMC Flash power rails routed as a relatively narrow trace on an outside layer etc.)
+> There are also a few, but very obvious and probably critical "SI" and "PI" issues (Dual Stripline traces running parallel to eachother longer than they should, one of the eMMC Flash power rails routed as a relatively narrow trace on an outside layer etc.)
 
 > Potential "Thombstoning" problems during reflow soldering.
 
