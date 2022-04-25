@@ -6,13 +6,13 @@
     
 ## Introduction
 
-I started this project a few months ago, in order to learn PCB Design, and deepen my knowledge in electronics, with the intention to eventually publicly release the development files, so other people could learn from them and my mistakes, and maybe at some point, after all the issues are sorted out - use it as a reference.
+I started this project a few months ago, in order to learn PCB Design, and deepen my electronics knowledge, with the intention to eventually publicly release the development files, so other people could learn from them and my mistakes, and maybe at some point, after all the issues are sorted out - use it as a reference.
 
 A detailed explanation of how each circuit works and why things are connected and routed the way they are will be included at some point in the future.
 
 ## Future Plans
 
-Development of different and robust [Open Hardware] SOM Modules, Motherboards and SBCs capable of operating in the industrial temperature range.
+Development of different and robust [Open Hardware] System On Modules [SOM], Motherboards and Single Board Computers [SBC] capable of operating in the industrial temperature range.
 
 ## Software Requirements [OpenSource]
 
