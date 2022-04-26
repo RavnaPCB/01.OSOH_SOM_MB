@@ -30,7 +30,7 @@ I started this project a few months ago, in order to learn PCB Design, and deepe
 
 > There are some things that don't make much sense at first glance (unused pads, holes in the solder mask, unnecessary components and copper pours etc). Most are there intentionaly because i wanted to do some measurements and experiments with the PCBs in order to prove some rules and concepts to myself.
 
-> There are some very obvious and probably critical "SI" and "PI" issues (Dual Stripline traces running parallel to eachother longer than they should, one of the eMMC Flash power rails routed as a relatively narrow trace on an outside layer etc.). I will be reporting and describing every issue I find in the repository's "Issues" tab.
+> There are also some very obvious and probably critical "SI" and "PI" issues (Dual Stripline traces running parallel to eachother longer than they should, one of the eMMC Flash power rails routed as a relatively narrow trace on an outside layer etc.). I will be reporting and describing every issue I find in the repository's "Issues" tab.
 
 > In hindsight, most of the issues and mistakes could have easily been avoided at an earlier stage of the design, if more research was done, but I decided to upload everything now, as a [Work In Progress], so i can hopefully get some constructive criticism and suggestoins before I start redesigning the boards.
 
