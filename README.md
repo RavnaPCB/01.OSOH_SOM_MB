@@ -6,7 +6,7 @@
     
 ## Introduction
 
-I started this project a few months ago, in order to learn PCB Design, and deepen my electronics knowledge, with the intention to eventually publicly release the development files, so other people could learn from them and my mistakes, and maybe at some point, after all the issues are sorted out - use as a reference or put the boards to actual use.
+I started this project a few months ago, in order to learn PCB Design, and deepen my electronics knowledge, with the intention to eventually publicly release the development files, so other people could learn from them and my mistakes, and maybe at some point, after all the issues are sorted out - use as a reference or put to actual use.
 
 ## Future Plans
 
